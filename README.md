@@ -1,4 +1,4 @@
-# ** Scholar Mine Pipeline **
+# **Scholar Mine Pipeline**
 
 ## **1. Overview**
 
