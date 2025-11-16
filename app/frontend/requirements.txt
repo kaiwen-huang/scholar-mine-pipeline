@@ -1,0 +1,5 @@
+# app/frontend/requirements.txt
+Flask==3.0.3
+confluent-kafka==2.3.0
+gunicorn==21.2.0
+certifi==2024.8.30

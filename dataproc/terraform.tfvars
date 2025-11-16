@@ -1,0 +1,5 @@
+project_id  = "my-second-project-478120"
+region      = "us-central1"
+zone        = "us-central1-a"
+bucket_name = "scholarmine-dataproc-bucket"
+cluster_name = "scholarmine-dataproc"
