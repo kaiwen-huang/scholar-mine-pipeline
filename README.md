@@ -1,4 +1,4 @@
-# ** Course Project Option 2 **
+# ** Scholar Mine Pipeline **
 
 ## **1. Overview**
 
